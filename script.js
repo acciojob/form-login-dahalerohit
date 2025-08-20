@@ -6,11 +6,11 @@ function getFormvalue() {
       let lastName = document.queryselector("input[name='lname'])".value;
 
       // Show full name in alert
-	function onconver(){
+	
 		
 	
       alert(firstName + " " + lastName);
-	}
+	
 	
 
 }
